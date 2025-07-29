@@ -1,4 +1,4 @@
-# 📊 Bank Credit & Debit Analytics Dashboard
+# 📊 Bank Debit & Credit Analytics Dashboard
 
 This project is an **interactive Excel-based dashboard** that analyzes customer banking transactions to uncover patterns, trends, and potential anomalies. The dashboard leverages KPIs and visualizations to offer actionable insights for both operational efficiency and risk management.
 
